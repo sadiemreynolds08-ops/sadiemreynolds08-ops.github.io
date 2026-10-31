@@ -1,0 +1,45 @@
+
+
+.birthstone-bounce-medium {
+  font-family: "Birthstone Bounce", cursive;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+body { margin: 0; }
+
+.fullscreen {
+  width: 100vw;
+  height: 200vh;
+  object-fit: cover;
+  position: absolute;
+  display: block;
+}
+
+h1
+ {
+  margin-top: 100px;
+  position: relative;
+  z-index: 1;
+}
+
+h2 {
+ font-size: 1.2rem;
+  position: relative;
+}
+
+header {
+  position: relative;
+  font-size: xx-large;
+  z-index: 0;
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;  
+  align-items: center;
+  text-align: center;
+  color:#f7dba0;
+  padding: 0rem 0rem 0;         
+  box-sizing: b;
+}
